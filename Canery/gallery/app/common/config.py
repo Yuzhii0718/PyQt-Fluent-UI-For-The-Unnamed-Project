@@ -58,11 +58,11 @@ YEAR = 2023
 AUTHOR = "Yuzhii0718"
 VERSION = "1.0.0-canery"
 HELP_URL = "www.example.com"
-REPO_URL = "https://github.com/zhiyiYo/PyQt-Fluent-Widgets"
-EXAMPLE_URL = "https://github.com/zhiyiYo/PyQt-Fluent-Widgets/tree/master/examples"
-FEEDBACK_URL = "https://github.com/zhiyiYo/PyQt-Fluent-Widgets/issues"
-RELEASE_URL = "https://github.com/zhiyiYo/PyQt-Fluent-Widgets/releases/latest"
-SUPPORT_URL = "https://afdian.net/a/zhiyiYo"
+REPO_URL = "www.example.com"
+EXAMPLE_URL = "www.example.com"
+FEEDBACK_URL = "www.example.com"
+RELEASE_URL = "www.example.com"
+SUPPORT_URL = "www.example.com"
 
 cfg = Config()
 cfg.themeMode.value = Theme.AUTO
